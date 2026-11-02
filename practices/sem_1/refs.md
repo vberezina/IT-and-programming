@@ -2,9 +2,9 @@
 
 ## 1. Общие ресурсы и хэндбуки Яндекса
 
-- [Хэндбуки Яндекс Практикума](https://practicum.yandex.ru/handbook/) — каталог учебных хэндбуков.
-- [Хэндбук «Основы компьютерных наук»](https://practicum.yandex.ru/handbook/computer-science/) — базовые понятия информатики, алгоритмов, данных и работы компьютера.
-- [Хэндбук «Основы Python»](https://practicum.yandex.ru/handbook/python-basics/) — введение в язык Python, базовый синтаксис, переменные, условия, циклы и функции.
+- [Хэндбуки Яндекс Практикума](https://education.yandex.ru/projects/handbook) — каталог учебных хэндбуков.
+- [Хэндбук «Основы компьютерных наук»](https://education.yandex.ru/handbook/vvedenie-v-kompiuternie-nauki) — базовые понятия информатики, алгоритмов, данных и работы компьютера.
+- [Хэндбук «Основы Python»](https://education.yandex.ru/handbook/python) — введение в язык Python, базовый синтаксис, переменные, условия, циклы и функции.
 - [Официальный сайт Python](https://www.python.org/) — загрузка интерпретатора, новости и документы проекта.
 - [Документация Python](https://docs.python.org/3/) — официальный справочник по языку и стандартной библиотеке.
 - [MDN Web Docs](https://developer.mozilla.org/ru/) — документация по HTML, CSS и веб-технологиям.
